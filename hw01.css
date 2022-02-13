@@ -1,0 +1,71 @@
+title{
+  color: solid black;
+  text: 28px;
+}
+.alert {
+  color: white;
+  font-weight: bold;
+  font-size: 10px;
+  text-align: center;
+}
+.open{
+  text-align: center;
+  font-size: 60px;
+  border: 12px solid purple;
+  background-image: url('https://www.planetware.com/wpimages/2019/06/wales-cardiff-top-attractions-cardiff-castle.jpg');
+  height: 400px;
+  image-size: relative;
+  overflow: auto;
+}
+.intro{
+  text-align: center;
+  text-position: realtive;
+  font-size: 30px;
+  font-family: fantasy;
+}
+img#no1{
+  height: 250px;
+  width: 300px;
+  float: left;
+}
+img#no2{
+  height: 250px;
+  width: 300px;
+  float: right;
+}
+.para{
+  font-size: 28px;
+  color: lightyellow;
+}
+body{
+  background: palevioletred;
+}
+table{
+  border: 5px solid black;
+  left: 500%;
+  width:50%;
+  margin-right: auto;
+  margin-left: auto;
+}
+.head{
+  font-size: 28px;
+  color: black;
+  border: 5px solid black;
+  background-color: white;
+  width: 50%;
+}
+tr{
+  text-align: center;
+  color: black;
+  background-color: white;
+  border-collapse: collapse;
+}
+img.main{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.heading{
+  font-weight: bold;
+}
