@@ -27,18 +27,23 @@ img#no1{
   height: 250px;
   width: 300px;
   float: left;
+  border: 5px solid black;
 }
 img#no2{
   height: 250px;
   width: 300px;
   float: right;
+  border: 5px solid black;
 }
 .para{
-  font-size: 28px;
-  color: lightyellow;
+  -webkit-text-stroke: 2px black; /* width and color */
+    font-family: courier new; color: orange;
+  font-size: 25px;
+  font-weight: bold;
 }
 body{
-  background: palevioletred;
+  background-image: url('https://www.hevercastle.co.uk/wp-content/uploads/2017/03/BW5R8498.jpg');
+  background-size:  200%;
 }
 table{
   border: 5px solid black;
@@ -46,6 +51,7 @@ table{
   width:50%;
   margin-right: auto;
   margin-left: auto;
+  background-color: white;
 }
 .head{
   font-size: 28px;
@@ -57,14 +63,13 @@ table{
 tr{
   text-align: center;
   color: black;
-  background-color: white;
-  border-collapse: collapse;
 }
 img.main{
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  border: 5px solid white;
 }
 .heading{
   font-weight: bold;
