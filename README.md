@@ -8,5 +8,7 @@
 
 ## Feedback
 
-Once you commit and submit your work to Github, I'll update this section with feedback.
+S
+
+The cows were top tier!  Great page -- really nice layout, colors, font choices.  (And well done html/css, too!)
 
